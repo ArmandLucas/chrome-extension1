@@ -15,8 +15,8 @@ function App() {
 
       <div style={{ padding: '0 32px', backgroundColor: 'black', height: '910px' }}>
         <p style={{ fontSize: '20px', margin: '32px 0', color: 'white', fontWeight: '600' }} >LOG IN</p>
-        <input type="email" style={{ width: '-webkit-fill-available', height: '40px', borderRadius: '4px', border: '1px solid #ccc', padding: '16px', fontSize: '16px', background: 'none', border: '1px solid rgba(255,255,255,0.25)', borderRadius: '4px', marginBottom: '16px', color: 'white' }} placeholder='Email Address' />
-        <input type="password" style={{ width: '-webkit-fill-available', height: '40px', borderRadius: '4px', border: '1px solid #ccc', padding: '16px', fontSize: '16px', background: 'none', border: '1px solid  rgba(255,255,255,0.25)', borderRadius: '4px', marginBottom: '16px', color: 'white' }} placeholder='Password' />
+        <input type="email" style={{ width: '-webkit-fill-available', height: '40px', borderRadius: '4px', padding: '16px', fontSize: '16px', background: 'none', border: '1px solid rgba(255,255,255,0.25)', marginBottom: '16px', color: 'white' }} placeholder='Email Address' />
+        <input type="password" style={{ width: '-webkit-fill-available', height: '40px', padding: '16px', fontSize: '16px', background: 'none', border: '1px solid  rgba(255,255,255,0.25)', borderRadius: '4px', marginBottom: '16px', color: 'white' }} placeholder='Password' />
 
 
         <div style={{  display: 'flex', justifyContent: 'space-between', position: 'absolute', bottom: '32px', width: '-webkit-fill-available', marginRight: '32px' }}>
